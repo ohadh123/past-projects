@@ -11,3 +11,4 @@ WordCount - Program that counts the number of characters, words, sentences, and 
 
 CalendarMaker - Text that displays the calendar of any month of any year. Instructions: extract .zip to folder and run through cmd with "java -jar "Calendar.jar""
  
+AlgorithmPictures - Contains several drawings implemented through algorithm. To be viewed one-by-one. Instructions: extract .zip to folder and compile an individual file through cmd with "javac file_name.java". Then type in "java file_name" to view drawing
